@@ -1,0 +1,60 @@
+li{
+    font-size: x-large;
+    font-family:serif;
+    font-weight: bold;
+    color:rgba(252, 4, 210, 0.87);
+    
+    
+    
+    
+}
+h3{
+    font-size: xx-large;
+    font-weight: bold;
+    color:rgb(116, 243, 31);
+}
+#foot{
+    font-size:x-large;
+    font-weight:bold ;
+  }
+img{
+    border-radius: 10px;
+    border-style: solid;
+   
+}
+h1{
+    font-size: 50px;
+    background-color:rgb(250, 3, 3);
+    color:rgb(24, 5, 199);
+    border-style: solid;
+    font-style: oblique;
+    font-family: cursive;
+    border-radius: 10px;
+    background-size:100px;
+}
+body{
+    background-image: url(https://images.unsplash.com/photo-1520106212299-d99c443e4568?ixid=MXwxMjA3fDB8MHxzZWFyY2h8N3x8cnVzc2lhfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+
+}
+li:hover{
+    background-color:rgb(78, 3, 94);
+    border-radius: 10px;
+}
+
+#book{
+    font-size: x-large;
+    font-weight: bold;
+    border-style: double;
+    background-color:rgb(250, 117, 9);
+    border-radius: 5px;
+    border-width: 10px;
+    color: rgb(250, 236, 36);
+}
+#book:hover{
+    background-color: lightgoldenrodyellow;
+    cursor:hand;}
+h2{
+    color:pink;
+
+    }

@@ -1,0 +1,134 @@
+body{
+    background:  radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(62,19,23,1) 100%, rgba(35,121,9,1) 100%, rgba(169,17,17,1) 100%, rgba(0,212,255,1) 100%);
+}
+#div1{
+    font-family: cursive;
+    color: rosybrown;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+   
+}
+#logo{
+    height: 200px;
+    border-radius: 20px;
+}
+.icon-bar {
+    width: 100%; 
+    background-color: #555; 
+    overflow: auto; 
+  }
+  
+  .icon-bar a {
+    float: left; 
+    text-align: center;
+    width: 25%;
+    padding: 25px 0; 
+    transition: all 0.2s ease;
+    color: white; 
+    font-size: 30px; 
+  }
+  #foot{
+    font-size:x-large;
+    font-weight:bold ;
+  }
+  
+  .icon-bar a:hover {
+    background-color: pink;
+  }
+  
+  .active {
+    background-color: #4CAF50;
+  }
+  #main{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  }
+  #div2{
+      background-image: url(https://images.unsplash.com/photo-1485081669829-bacb8c7bb1f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+      margin-left: 150px;
+      padding-top:20px;
+      background-size: cover;
+      height: 400px;
+      width: 1000px;
+
+  }
+  #open{
+      font-size: xx-large;
+      background-color: wheat;
+      border: sienna;
+      border-radius: 10px;
+      font-weight: bolder;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  #div3{
+    background-image: url(https://images.unsplash.com/photo-1526481280693-3bfa7568e0f3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+    margin-left: 150px;
+    padding-top:50px;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+
+  }
+  #div4{
+    background-image: url(https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    margin-left: 150px;
+    padding-top:50px;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+
+  }
+  #div5{
+    background-image: url(https://images.unsplash.com/photo-1571623330223-dd78c862712d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80);
+    margin-left: 150px;
+    padding-top:50px;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+
+  }
+  #div6{
+    background-image: url(https://images.unsplash.com/photo-1524492412937-b28074a5d7da?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+    margin-left: 150px;
+    padding-top:50px;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+
+  }
+  #div7{
+  background-image: url(https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+  margin-left: 150px;
+  padding-top:50px;
+  background-size: cover;
+  height: 400px;
+  width: 1000px;
+
+}
+#div8{
+    background-image: url(https://images.unsplash.com/photo-1547448415-e9f5b28e570d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80);
+    margin-left: 150px;
+    padding-top:50px;
+    background-size: cover;
+    height: 400px;
+    width: 1000px;
+  
+  }
+  h1{
+    border-style:double;
+    background-image: url(https://resources.thomascook.in/images/holidays/PKG003193/photos/ZurichPanaromic.jpg);
+    color: rgb(48, 1, 53);
+  }
+  
+
+
+
+    
+
+
+
+
+    
+
+
+
